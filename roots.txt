@@ -1,0 +1,1 @@
+The equation 3.4x^2 + 7.2x + 3 = 0 has roots -0.570199 and -1.54745
